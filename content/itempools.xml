@@ -1,0 +1,11 @@
+<ItemPools>
+  <Pool Name="treasure">
+  </Pool>
+  <Pool Name="boss">
+  </Pool>
+  <Pool Name="secret">
+    <Item Name="Anti-Softlock" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    <Item Name="Twice Twice" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    <Item Name="Things Carl Has Learned" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+  </Pool>
+</ItemPools>

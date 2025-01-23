@@ -1,0 +1,3 @@
+<music root="music/">
+    <track name="SM64 Slider" intro="slider intro.ogg" path="slider loop.ogg" loop="true" />
+</music>

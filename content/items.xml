@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+  <passive id="1" name="Twice Twice" description="Carl does everything twice twice" gfx="twice_twice.png" quality="2" cache="firedelay tearflag" />
+  <active id="2" name="Anti-Softlock" description="*Slider music starts playing*" gfx="anti_softlock.png" quality="1" maxcharges="4" chargetype="normal" />
+  <active id="3" name="Things Carl Has Learned" description="It's empty" gfx="list_of_things.png" quality="0" maxcharges="1" chargetype="timed" />
+</items>

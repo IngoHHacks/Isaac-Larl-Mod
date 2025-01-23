@@ -1,0 +1,9 @@
+<metadata>
+	<name>CarlSagan42 Troll Mod</name>
+	<directory>larlmod</directory>
+	<description>Troll mod for CarlSagan42</description>
+	<version>1.0</version>
+	<visibility>hidden</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>
